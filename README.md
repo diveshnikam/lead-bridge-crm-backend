@@ -117,8 +117,6 @@ PORT=3000
 * Express.js
 * MongoDB (Mongoose)
 
-**Backend**: Express.js with RESTful APIs, Mongoose for database interactions with MongoDB.
-**Database**: MongoDB with models for leads, sales agents, comments, and tags.
 
 ```
 
@@ -126,5 +124,4 @@ PORT=3000
 
 
 
-Do you want me to do that next?
-```
+
